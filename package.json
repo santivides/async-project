@@ -1,0 +1,24 @@
+{
+  "name": "async-project",
+  "version": "1.0.0",
+  "description": "jaaScript asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santivides/async-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santivides/async-project/issues"
+  },
+  "homepage": "https://github.com/santivides/async-project#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
